@@ -60,7 +60,7 @@ public:
 };
 
 //template <typename T1, typename T2>
-#define  T1 int
+#define T1 int
 #define T2 std::string
 void task3()
 {
